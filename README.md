@@ -1,4 +1,4 @@
-# ucsb-tidy-tuesday
+# UCSB #TidyTuesday Coding Club
 
 Every Tuesday, the #R4DS online learning community releases an interesting dataset for R users to wrangle, visualize, and share with the broader data science community on Twitter using #TidyTuesday (example datasets).
 
